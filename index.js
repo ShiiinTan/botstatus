@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [".gg/yenshinn, SHOP NOW!"];
+const statusMessages = [".gg/yenshinn", "SHOP NOW!", "fast process" ];
 
 
 let currentIndex = 0;
